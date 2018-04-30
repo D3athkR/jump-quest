@@ -1,0 +1,2 @@
+
+1) Flag: how to switch into a different scene when the flag is touched or grabbed for up to 3secs by the robot? 
