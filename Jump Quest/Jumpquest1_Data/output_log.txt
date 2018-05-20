@@ -1,0 +1,488 @@
+Initialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1091]
+    Renderer: Intel(R) HD Graphics Family
+    Vendor:   Intel
+    VRAM:     2090 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=1 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Willeeh\Documents\GitHub\jump-quest\Jump Quest\Jumpquest1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Willeeh\Documents\GitHub\jump-quest\Jump Quest\Jumpquest1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Willeeh\Documents\GitHub\jump-quest\Jump Quest\Jumpquest1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Willeeh\Documents\GitHub\jump-quest\Jump Quest\Jumpquest1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Willeeh\Documents\GitHub\jump-quest\Jump Quest\Jumpquest1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Willeeh\Documents\GitHub\jump-quest\Jump Quest\Jumpquest1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Willeeh\Documents\GitHub\jump-quest\Jump Quest\Jumpquest1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Willeeh\Documents\GitHub\jump-quest\Jump Quest\Jumpquest1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.034 seconds
+Platform assembly: C:\Users\Willeeh\Documents\GitHub\jump-quest\Jump Quest\Jumpquest1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Willeeh\Documents\GitHub\jump-quest\Jump Quest\Jumpquest1_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.872522 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.940385 ms
+Music player Awake 738
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 286.
+Total: 0.370865 ms (FindLiveObjects: 0.035920 ms CreateObjectMapping: 0.026123 ms MarkObjects: 0.288762 ms  DeleteObjects: 0.019592 ms)
+
+Level auto be disabled
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Music player Start 738
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Level load: Level101
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.130667 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 703.
+Total: 0.450170 ms (FindLiveObjects: 0.085835 ms CreateObjectMapping: 0.042917 ms MarkObjects: 0.297159 ms  DeleteObjects: 0.022391 ms)
+
+Level auto be disabled
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Level auto be disabled
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Level load: Start Menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.240884 ms
+Music player Awake 1758
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Duplicate music player self-destructing!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 328.
+Total: 0.999705 ms (FindLiveObjects: 0.056912 ms CreateObjectMapping: 0.033587 ms MarkObjects: 0.411917 ms  DeleteObjects: 0.494954 ms)
+
+Level auto be disabled
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Level load: Level101
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.580323 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 738.
+Total: 0.561663 ms (FindLiveObjects: 0.054580 ms CreateObjectMapping: 0.046649 ms MarkObjects: 0.431977 ms  DeleteObjects: 0.027989 ms)
+
+Level auto be disabled
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Level auto be disabled
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Level load: Start Menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.012767 ms
+Music player Awake 2418
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Duplicate music player self-destructing!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 328.
+Total: 0.898941 ms (FindLiveObjects: 0.042451 ms CreateObjectMapping: 0.033121 ms MarkObjects: 0.369466 ms  DeleteObjects: 0.452969 ms)
+
+Level auto be disabled
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Level load: Level101
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.604581 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 738.
+Total: 0.804709 ms (FindLiveObjects: 0.070907 ms CreateObjectMapping: 0.061577 ms MarkObjects: 0.634437 ms  DeleteObjects: 0.036853 ms)
+
+Level auto be disabled
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Level auto be disabled
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The PlayerPrefab is empty on the NetworkManager. Please setup a PlayerPrefab object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The PlayerPrefab is empty on the NetworkManager. Please setup a PlayerPrefab object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:58360} time {250286}, last rec time {248283} rtt {1} timeout {2000}
+Empty player list given to NetworkServer.Destroy(), nothing to do.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ServerDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Level load: Start Menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.498906 ms
+Music player Awake 3078
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Duplicate music player self-destructing!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 328.
+Total: 1.460138 ms (FindLiveObjects: 0.053647 ms CreateObjectMapping: 0.047116 ms MarkObjects: 0.654030 ms  DeleteObjects: 0.703478 ms)
+
+Level auto be disabled
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Level load: Option
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.647499 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 344.
+Total: 0.554666 ms (FindLiveObjects: 0.031721 ms CreateObjectMapping: 0.029855 ms MarkObjects: 0.464165 ms  DeleteObjects: 0.027989 ms)
+
+Level auto be disabled
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Level load: Start Menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.937194 ms
+Music player Awake 3310
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Duplicate music player self-destructing!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 328.
+Total: 0.533673 ms (FindLiveObjects: 0.077438 ms CreateObjectMapping: 0.031255 ms MarkObjects: 0.395590 ms  DeleteObjects: 0.027523 ms)
+
+Level auto be disabled
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Level load: Level101
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.475361 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 738.
+Total: 0.574725 ms (FindLiveObjects: 0.056446 ms CreateObjectMapping: 0.047582 ms MarkObjects: 0.443173 ms  DeleteObjects: 0.026590 ms)
+
+Level auto be disabled
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Level auto be disabled
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Level load: Start Menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.962557 ms
+Music player Awake 3970
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Duplicate music player self-destructing!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 328.
+Total: 2.077315 ms (FindLiveObjects: 0.088168 ms CreateObjectMapping: 0.076505 ms MarkObjects: 0.814971 ms  DeleteObjects: 1.096736 ms)
+
+Level auto be disabled
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Level load: Level101
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.555132 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 738.
+Total: 0.565395 ms (FindLiveObjects: 0.057845 ms CreateObjectMapping: 0.044317 ms MarkObjects: 0.436175 ms  DeleteObjects: 0.026123 ms)
+
+Level auto be disabled
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Level auto be disabled
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The PlayerPrefab is empty on the NetworkManager. Please setup a PlayerPrefab object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The PlayerPrefab is empty on the NetworkManager. Please setup a PlayerPrefab object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Empty player list given to NetworkServer.Destroy(), nothing to do.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Level load: Start Menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.360308 ms
+Music player Awake 4630
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Duplicate music player self-destructing!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 328.
+Total: 1.033759 ms (FindLiveObjects: 0.046183 ms CreateObjectMapping: 0.034987 ms MarkObjects: 0.462299 ms  DeleteObjects: 0.489822 ms)
+
+Level auto be disabled
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The PlayerPrefab is empty on the NetworkManager. Please setup a PlayerPrefab object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawn scene object not found for 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawn scene object not found for 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawn scene object not found for 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Level load: Level101
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.588253 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 738.
+Total: 0.716074 ms (FindLiveObjects: 0.144147 ms CreateObjectMapping: 0.047116 ms MarkObjects: 0.494954 ms  DeleteObjects: 0.027989 ms)
+
+Level auto be disabled
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Level auto be disabled
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Socket: bind failed, error: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+Cannot open socket on ip {*} and port {7777}; check please your network, most probably port has been already occupied
+ 
+(Filename:  Line: 578)
+
+StartServer listen failed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Level load: Start Menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.941859 ms
+Music player Awake 5290
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Duplicate music player self-destructing!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 328.
+Total: 0.961452 ms (FindLiveObjects: 0.044317 ms CreateObjectMapping: 0.033587 ms MarkObjects: 0.404453 ms  DeleteObjects: 0.478160 ms)
+
+Level auto be disabled
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The PlayerPrefab is empty on the NetworkManager. Please setup a PlayerPrefab object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Level load: Level101
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.445505 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 738.
+Total: 0.639102 ms (FindLiveObjects: 0.100297 ms CreateObjectMapping: 0.063910 ms MarkObjects: 0.448771 ms  DeleteObjects: 0.025190 ms)
+
+Level auto be disabled
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Level auto be disabled
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The PlayerPrefab is empty on the NetworkManager. Please setup a PlayerPrefab object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:64240} time {535587}, last rec time {533584} rtt {11} timeout {2000}
+Empty player list given to NetworkServer.Destroy(), nothing to do.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ServerDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The PlayerPrefab is empty on the NetworkManager. Please setup a PlayerPrefab object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:64912} time {630812}, last rec time {628809} rtt {2} timeout {2000}
+Empty player list given to NetworkServer.Destroy(), nothing to do.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ServerDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Level load: Start Menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.086007 ms
+Music player Awake 5950
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Duplicate music player self-destructing!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 328.
+Total: 1.025362 ms (FindLiveObjects: 0.043384 ms CreateObjectMapping: 0.035920 ms MarkObjects: 0.423580 ms  DeleteObjects: 0.522011 ms)
+
+Level auto be disabled
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Level load: Level101
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.530408 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 738.
+Total: 0.574259 ms (FindLiveObjects: 0.045716 ms CreateObjectMapping: 0.048515 ms MarkObjects: 0.455302 ms  DeleteObjects: 0.023791 ms)
+
+Level auto be disabled
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Level auto be disabled
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Level load: Start Menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.909204 ms
+Music player Awake 6610
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Duplicate music player self-destructing!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 328.
+Total: 0.959586 ms (FindLiveObjects: 0.078838 ms CreateObjectMapping: 0.058778 ms MarkObjects: 0.357803 ms  DeleteObjects: 0.462765 ms)
+
+Level auto be disabled
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1238 -> priority: 1 
+  Thread -> id: 3440 -> priority: 1 
+  Thread -> id: 2b90 -> priority: 1 
+  Thread -> id: 3b98 -> priority: 1 
