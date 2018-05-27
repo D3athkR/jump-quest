@@ -4,9 +4,12 @@ using UnityEngine;
 
 public class Collectable : MonoBehaviour {
 
+	private LevelManager GameLevelManager;
+	public int Coinvalue;
+
 	// Use this for initialization
 	void Start () {
-		
+		GameLevelManager=FindObjectOfType<LevelManager>();
 	}
 	
 	// Update is called once per frame
@@ -17,6 +20,7 @@ public class Collectable : MonoBehaviour {
 	void OnTriggerEnter2D (Collider2D other){
 
 		if (other.tag=="Player"){
+			GameLevelManager.AddCoins(Coinvalue);
 			Destroy(gameObject);
 		}
 	}
