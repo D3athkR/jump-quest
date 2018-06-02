@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e50cb66001f4dc14b9375ff8a99224e7
+timeCreated: 1527948601
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Janda Happy Day
+  fontNames:
+  - Janda Happy Day
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -7,11 +7,19 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scene/SplashBack.unity
+    guid: dfc43379e2c7cc546a015ff41e90aa0d
   - enabled: 1
     path: Assets/Scene/StartMenu/Start Menu.unity
+    guid: cfed02f75e86a224ea2820b4f4b24b41
   - enabled: 1
     path: Assets/Scene/StartMenu/Option.unity
+    guid: 412d0f9cb99bdf44abbc62f154557789
   - enabled: 1
     path: Assets/Scene/Level101.unity
+    guid: 943cd573b470ca942b0c79c3c756a4bd
+  - enabled: 1
+    path: Assets/Scene/scoreboard.unity
+    guid: 4ba0e06b0f8392a44902ee4c198be7a1
   - enabled: 1
     path: Assets/Scene/Lose.unity
+    guid: 8a7c6db5990bfa74c9daa84f7a8042d2
