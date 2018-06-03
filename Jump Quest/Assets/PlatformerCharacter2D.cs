@@ -10,13 +10,8 @@ namespace UnitySampleAssets._2D
     {
         private bool facingRight = true; // For determining which way the player is currently facing.
 
-        [SerializeField] public float maxSpeed = 10f; // The fastest the player can travel in the x axis.
-<<<<<<< HEAD:Jump Quest/Assets/PlatformerCharacter2D.cs
-        [SerializeField] private float jumpForce = 400f; // Amount of force added when the player jumps.	
-=======
+        [SerializeField] public float maxSpeed = 10f; // The fastest the player can travel in the x axis.	
         [SerializeField] public float jumpForce = 400f; // Amount of force added when the player jumps.	
->>>>>>> 2fbea439a7e69f25f9fae2d17cb3cd61f23b8202:Jump Quest/Assets/UnityAssets/2D/Scripts/PlatformerCharacter2D.cs
-
         [Range(0, 1)] [SerializeField] private float crouchSpeed = .36f;
                                                      // Amount of maxSpeed applied to crouching movement. 1 = 100%
 

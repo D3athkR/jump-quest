@@ -32,15 +32,11 @@ public void TakeDamage (int amount)
    if (currentHealth <= 50)
    {
    Debug.Log ("half reduced");
-<<<<<<< HEAD:Jump Quest/Assets/health.cs
 
-
-=======
 	GameObject thePlayer = GameObject.Find("Player1");
 	PlatformerCharacter2D platform = thePlayer.GetComponent<PlatformerCharacter2D>();
 	platform.maxSpeed = 1f;
 	platform.jumpForce = 200f;
->>>>>>> 2fbea439a7e69f25f9fae2d17cb3cd61f23b8202:Jump Quest/Assets/Script/health.cs
   }
 
 		healthBar.sizeDelta = new Vector2(currentHealth, healthBar.sizeDelta.y);
