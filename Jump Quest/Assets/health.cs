@@ -6,8 +6,12 @@ using UnityEngine;
 public class health : MonoBehaviour {
 public const int maxHealth = 100;
 public int currentHealth= maxHealth;
+public GameObject theplayer;
 public RectTransform healthBar;
 
+	//		GameObject theplayer= GameObject.Find("Player");
+		//testing playform= theplayer.GetComponent<testing>();
+		//playform.maxSpeed=5f; 
 
 public void TakeDamage (int amount)
 {
@@ -23,6 +27,7 @@ public void TakeDamage (int amount)
    if (currentHealth <= 50)
    {
    Debug.Log ("half reduced");
+
 
   }
 

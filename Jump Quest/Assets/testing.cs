@@ -1,13 +1,12 @@
-﻿using UnityEngine;
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 
-namespace UnitySampleAssets._2D
-{
+public class testing : MonoBehaviour {
 
-    public class PlatformerCharacter2D : MonoBehaviour
-    {
-        private bool facingRight = true; // For determining which way the player is currently facing.
+	private bool facingRight = true; // For determining which way the player is currently facing.
 
-        [SerializeField] private float maxSpeed = 10f; // The fastest the player can travel in the x axis.
+        [SerializeField] public float maxSpeed = 10f; // The fastest the player can travel in the x axis.
         [SerializeField] private float jumpForce = 400f; // Amount of force added when the player jumps.	
 
         [Range(0, 1)] [SerializeField] private float crouchSpeed = .36f;
@@ -102,4 +101,4 @@ namespace UnitySampleAssets._2D
             transform.localScale = theScale;
         }
     }
-}
+
