@@ -26,7 +26,7 @@ namespace UnitySampleAssets._2D
         private void FixedUpdate()
         {
             // Read the inputs.
-            bool crouch = Input.GetKey(KeyCode.LeftControl);
+            bool crouch = Input.GetKey(KeyCode.DownArrow);
             float h = Input.GetAxis("Horizontal");
             // Pass all parameters to the character control script.
             character.Move(h, crouch, jump);

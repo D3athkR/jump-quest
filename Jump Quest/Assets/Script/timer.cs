@@ -22,7 +22,7 @@ private bool finished = false;
 		string minutes = ((int) t / 60).ToString(); 
 		string seconds = (t % 60).ToString("f2"); 
 		
-		timerText.text = minutes + ":" + seconds; 
+	timerText.text = minutes + ":" + seconds; 
 	}
 	
 	public void Finish()
