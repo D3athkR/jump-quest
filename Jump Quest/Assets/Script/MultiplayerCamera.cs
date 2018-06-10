@@ -31,7 +31,7 @@ public class MultiplayerCamera : MonoBehaviour {
 		for (int i=0; i<targets.Count; i++){
 			bounds.Encapsulate(targets[i].position);
 		}
-		return bounds.size.x;
+		return bounds.size.y; //change to size.x to get camera to zoom based horizontal x distance between players
 	}
 
 	void Move(){
