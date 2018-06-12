@@ -8,7 +8,7 @@ private GameObject items;
 
 
 
-void OnTriggerEnter2D(Collision2D col){
+void OnTriggerEnter2D(Collider2D col){
 	if(col.transform.CompareTag("item"))
 	col.transform.position=spawnPoint.position; 
 		items = GameObject.FindGameObjectWithTag ("item");
