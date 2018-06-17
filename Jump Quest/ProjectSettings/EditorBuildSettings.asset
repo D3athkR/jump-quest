@@ -23,3 +23,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scene/Lose.unity
     guid: 8a7c6db5990bfa74c9daa84f7a8042d2
+  - enabled: 1
+    path: Assets/Scene/point system.unity
+    guid: 81054b6bd10379b439f2f40dcf3fd14c
+  - enabled: 1
+    path: Assets/Scene/Map 2/sink.unity
+    guid: 00000000000000000000000000000000
