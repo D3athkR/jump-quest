@@ -24,6 +24,14 @@ namespace UnitySampleAssets._2D
         private Transform ceilingCheck; // A position marking where to check for ceilings
         private float ceilingRadius = .01f; // Radius of the overlap circle to determine if the player can stand up
         private Animator anim; // Reference to the player's animator component.
+		public GameObject leftprojectile, rightprojectile;
+		 Transform TSB; 
+ 
+
+ void Start()
+ {
+		TSB=transform.Find("TSB");
+		}
 
 
         private void Awake()
@@ -32,6 +40,7 @@ namespace UnitySampleAssets._2D
             groundCheck = transform.Find("GroundCheck");
             ceilingCheck = transform.Find("CeilingCheck");
             anim = GetComponent<Animator>();
+
         }
 
 
@@ -90,6 +99,11 @@ namespace UnitySampleAssets._2D
                 anim.SetBool("Ground", false);
                 GetComponent<Rigidbody2D>().AddForce(new Vector2(0f, jumpForce));
             }
+
+			if(Input.GetKeyDown(KeyCode.F))
+			{
+			fire();
+			}
         }
 
 
@@ -103,5 +117,14 @@ namespace UnitySampleAssets._2D
             theScale.x *= -1;
             transform.localScale = theScale;
         }
+   
+  
+		void fire(){
+ 	if(facingRight)
+     Instantiate(rightprojectile, TSB.position, Quaternion.identity); 
+     else if (!facingRight)
+			Instantiate(leftprojectile, TSB.position, Quaternion.identity);
     }
+
+}
 }

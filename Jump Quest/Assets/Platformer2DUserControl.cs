@@ -11,9 +11,12 @@ namespace UnitySampleAssets._2D
         private PlatformerCharacter2D character;
         private bool jump;
 
+       
         private void Awake()
         {
             character = GetComponent<PlatformerCharacter2D>();
+
+
         }
 
         private void Update()
@@ -21,7 +24,11 @@ namespace UnitySampleAssets._2D
             if(!jump)
             // Read the jump input in Update so button presses aren't missed.
             jump = Input.GetButtonDown("Jump");
+
+
+
         }
+
 
         private void FixedUpdate()
         {
@@ -32,5 +39,11 @@ namespace UnitySampleAssets._2D
             character.Move(h, crouch, jump);
             jump = false;
         }
-    }
+
+
+
+
+
 }
+}
+
