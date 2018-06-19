@@ -7,6 +7,7 @@ public class Collectable : MonoBehaviour {
 	private LevelManager GameLevelManager;
 	public int Coinvalue;
 
+
 	// Use this for initialization
 	void Start () {
 		GameLevelManager=FindObjectOfType<LevelManager>();
@@ -16,6 +17,7 @@ public class Collectable : MonoBehaviour {
 	void Update () {
 		
 	}
+
 
 	void OnTriggerEnter2D (Collider2D other){
 
