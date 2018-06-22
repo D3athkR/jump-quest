@@ -1,10 +1,9 @@
+﻿using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
-using System.Collections;
 
-public class win : MonoBehaviour {
-private LevelManager levelmanager; 
-
-
+public class worldmapscene : MonoBehaviour {
+LevelManager levelmanager;
 
 	void OnCollisionEnter2D(Collision2D collision) 
 {
@@ -12,10 +11,5 @@ private LevelManager levelmanager;
 		levelmanager.LoadLevel ("point system");
 		print ("Collision");
 		GameObject.Find ("Player1").SendMessage ("Finish"); 
-		
-
-		
-		
-	
-	}
+}
 }

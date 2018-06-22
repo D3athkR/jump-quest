@@ -26,6 +26,9 @@ namespace UnitySampleAssets._2D
         private Animator anim; // Reference to the player's animator component.
 		public GameObject leftprojectile, rightprojectile;
 		 Transform TSB; 
+		public VirtualJoystick joystick;
+
+		
  
 
  void Start()
@@ -43,6 +46,17 @@ namespace UnitySampleAssets._2D
 
         }
 
+        private void Update()
+        {
+        Vector3 dir = Vector3.zero;
+
+        dir.x = Input.GetAxis ("Horizontal");
+		dir.z = Input.GetAxis ("Vertical");
+
+		if(dir.magnitude >1)
+			dir.Normalize ();
+
+			}
 
         private void FixedUpdate()
         {
@@ -126,5 +140,10 @@ namespace UnitySampleAssets._2D
 			Instantiate(leftprojectile, TSB.position, Quaternion.identity);
     }
 
+
+
+
+
 }
 }
+
