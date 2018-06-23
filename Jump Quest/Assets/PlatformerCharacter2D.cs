@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
+using UnityStandardAssets.CrossPlatformInput;
 
 
 namespace UnitySampleAssets._2D
@@ -114,7 +115,7 @@ namespace UnitySampleAssets._2D
                 GetComponent<Rigidbody2D>().AddForce(new Vector2(0f, jumpForce));
             }
 
-			if(Input.GetKeyDown(KeyCode.F))
+			if(Input.GetKeyDown(KeyCode.F) || CrossPlatformInputManager.GetButton("Shoot") )
 			{
 			fire();
 			}
