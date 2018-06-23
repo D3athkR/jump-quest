@@ -21,17 +21,12 @@ joystickImg=transform.GetChild(0).GetComponent<Image>();
 
 }
 			public virtual void OnDrag(PointerEventData ped)
-
-
 {
 	Vector2 pos = Vector2.zero;
 	if(RectTransformUtility.ScreenPointToLocalPointInRectangle(bglmg.rectTransform
 																,ped.position
 																,ped.pressEventCamera
 																,out pos))
-
-
-
 
 	
 {
@@ -52,13 +47,9 @@ joystickImg=transform.GetChild(0).GetComponent<Image>();
 }
 }
 
-				public virtual void OnPointerDown(PointerEventData ped)
-
-
-{
+				public virtual void OnPointerDown(PointerEventData ped){
 		OnDrag(ped);
-
-}
+				}
 	
 
 
@@ -67,7 +58,6 @@ joystickImg=transform.GetChild(0).GetComponent<Image>();
 
 	public virtual void OnPointerUp(PointerEventData ped)
 {
-
 		InputDirection = Vector3.zero;
 	joystickImg.rectTransform.anchoredPosition = Vector3.zero;
 	}
@@ -88,8 +78,6 @@ joystickImg=transform.GetChild(0).GetComponent<Image>();
 			return InputDirection.z;
 	else
 			return Input.GetAxis("Vertical");
-
-
 	}
 }
 

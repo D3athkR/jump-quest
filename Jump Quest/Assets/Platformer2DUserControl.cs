@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
+using UnityStandardAssets.CrossPlatformInput;
 
 namespace UnitySampleAssets._2D
 {
@@ -22,13 +23,9 @@ namespace UnitySampleAssets._2D
 
         private void Update()
         {
-
-
             if(!jump)
             // Read the jump input in Update so button presses aren't missed.
             jump = Input.GetButtonDown("Jump");
-
-
 
         }
 
