@@ -2,12 +2,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityStandardAssets.CrossPlatformInput;
+using UnityEngine.Networking;
 
 namespace UnitySampleAssets._2D
 {
 
     [RequireComponent(typeof (PlatformerCharacter2D))]
-    public class Platformer2DUserControl : MonoBehaviour
+    public class Platformer2DUserControl : NetworkBehaviour
     {
         private PlatformerCharacter2D character;
         private bool jump;
@@ -23,6 +24,11 @@ namespace UnitySampleAssets._2D
 
         private void Update()
         {
+        	//Player controls their own player and not other's as well (Turn on during multiplayer)
+        	//if (!isLocalPlayer){
+        	//	return;
+        	//}
+
             if(!jump)
             // Read the jump input in Update so button presses aren't missed.
             jump = Input.GetButtonDown("Jump");
