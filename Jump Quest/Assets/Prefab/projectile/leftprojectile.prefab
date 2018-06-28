@@ -24,6 +24,7 @@ GameObject:
   - component: {fileID: 50974617170019300}
   - component: {fileID: 114827227754680998}
   - component: {fileID: 114955092969850456}
+  - component: {fileID: 114974650696948898}
   m_Layer: 0
   m_Name: leftprojectile
   m_TagString: Untagged
@@ -113,6 +114,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   delay: 3
+--- !u!114 &114974650696948898
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1394413544271316}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2310f029f2d9119438f96f1bf3f6eb84, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!212 &212582450189350416
 SpriteRenderer:
   m_ObjectHideFlags: 1

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4ed4454d02c6802408ee2027ac5fff02
+timeCreated: 1529983078
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Digital-7 Italic
+  fontNames:
+  - Digital-7 Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
